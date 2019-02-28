@@ -1,0 +1,5 @@
+#var = 30
+turn #var
+#var = 60
+turn #var
+move #var

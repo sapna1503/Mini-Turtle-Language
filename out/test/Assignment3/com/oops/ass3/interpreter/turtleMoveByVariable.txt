@@ -1,0 +1,4 @@
+#var = 1
+move #var
+#var = 2
+move #var
